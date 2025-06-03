@@ -1,3 +1,3 @@
 # Professional Portfolio
 
-For details on this professional portfolio, please see https://techfolios.github.io.
+For Kaylee Kataokaʻs profile please visit https://kayleebm.github.io/kaylee.kataoka/
