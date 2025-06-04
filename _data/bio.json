@@ -1,35 +1,33 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kaylee Kataoka",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/molly-maluhia.jpeg",
+    "email": "kayleebm@hawaii.edu",
+    "phone": "808-937-4198",
+    "website": "https://kayleebm.github.io",
+    "summary": "Aloha! I am a current senior at the University of Hawaiʻi at Mānoa. Iʻm expected to graduate with a BS in Computer engineering in 2026. I also run a small business called Hakulei by Kay and coach volleyball while not in school.",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kayleebm", "url": "http://github.com/kayleebm" },
+      { "network": "linkedin", "username": "kayleekataoka", "url": "http://linkedin.com/in/kaylee-kataoka/" },
+      { "network": "facebook", "username": "Hakuleibykay", "url": "http://facebook.com/hakuleibykay/" },
+      { "network": "instagram", "username": "Hakuleibykay", "url": "http://instagram.com/Hakuleibykay/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cyber Security" },
+    { "name": "AI Technology" },
+    { "name": "Game Development" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Java", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "VS Code", "Clion" ]
     }
   ],
   "education": [
@@ -37,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08",
       "endDate": "Present",
       "courses": [
       ]
