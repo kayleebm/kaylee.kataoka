@@ -8,9 +8,9 @@ published: true
 labels:
   - TypeScript
 ---
-<img width="380px" class="rounded float-start pe-3" src="../img/essay/cover/TYPE.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/typescript/Typescript.png">
 
-## Opinons on Typescript <img src="../img/typescript/Typescript.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## Opinons on Typescript <img src="../img/typescript/opinion.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
 
 TypeScript has been a surprisingly powerful tool in my development journey. Although I didn’t have much experience with it before, learning how to use it has been both challenging and rewarding. One of the biggest benefits I noticed is how effectively it catches bugs early, even before running the code. Using the TypeScript playground, I was able to quickly spot and fix issues, which made debugging much smoother. It also generates outputs quickly, which helps confirm whether my code is working as expected. While getting familiar with TypeScript, I also had to dive into Java—a bit tricky at first—but the introduction modules really helped solidify my understanding. Overall, TypeScript has proven itself as a helpful and efficient language that I now recommend more often.
 
