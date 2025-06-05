@@ -26,7 +26,7 @@ From the perspective of a software engineering I feel that typescript can be ver
 
 The WODs are a hands on way to learn and practice our skills which I enjoy. Iʻm a person who needs to apply the skills learned in order to retain information. With the WODs I am able to apply what Iʻve learned from modules or lesson videos then check my answers with the video demonstration. I appreciate the video demonstration at the end as it gives me a better perspective on what to do for the next WOD or if Iʻve done it correctly. The WODs are also quick in the sense that I donʻt have to spend a ton of time sitting there and recoding. Some assignements Iʻve had to code for 3-4 days in which I donʻt learn anything because Iʻm so frustrated of having to redo things continuously. With the WODs so far if I make an error it doesnʻt take me days to figure out but instead a couple minutes.
 
-##Learning Style
+## Learning Style
 
 I personally enjoy the asynchronous learning style. This gives me the flexibility I need in my life as there is a lot going on day to day. Iʻm a very organized person so these classes donʻt hinder me as I know that my learning is completely in my hands. Being able to do assignments and learn on my own time is much less stressful than having to attend a lecure at a certain time everyday in which some days I canʻt necessarily make it and Iʻll be behind on course work.  
 
