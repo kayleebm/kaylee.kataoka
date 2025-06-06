@@ -8,8 +8,9 @@ published: true
 labels:
   - Engineering
 ---
-<img width="380px" class="rounded float-start pe-3" src="..img/Breaking Bugs/softwareengineer.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/Breaking Bugs/softwareengineer.png">
 
+  
 ## From Curiosity to Code <img src="../img/Breaking Bugs/undercover.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
 
 As a high school senior, one of the most common—and overwhelming—questions I faced was, “What are you going to study in college?” At the time, I was unsure and felt the pressure of making such an important decision. One evening, while watching TV with my family, we came across a show called Undercover Underage. It followed a team working to expose online predators by going undercover and catching individuals attempting to meet with underage children. One episode featured Hawaiʻi’s cyber security division within the Department of Homeland Security, and in that moment, something clicked. I realized that I wanted to pursue a career in technology with a purpose. I’ve always had a strong interest in electronics—from my first iPod to my current MacBook—so software engineering felt like a natural path. My goal is to use the skills I gain in this field to help protect communities from cybercrimes and to raise awareness about the risks of weak security systems. 
