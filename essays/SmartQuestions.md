@@ -11,7 +11,7 @@ labels:
 ---
 <img width="380px" class="rounded float-start pe-3" src="../img/SmartQuestions/image_preview.png">
   
-## Why Clarify in Questions Gets You Better Answers <img src="../img/Breaking Bugs/undercover.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## Why Clarify in Questions Gets You Better Answers <img src="../img/SmartQuestions/pngimg.com - question_mark_PNG56.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
 
 A smart question is one that is clear, specific, and respectful. It shows the asker has made an effort to solve the problem, includes enough detail and context, and is well formatted. These types of questions invite helpful, efficient responses because they respect the time and expertise of others.
 
