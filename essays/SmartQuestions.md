@@ -9,7 +9,7 @@ labels:
   - Engineering
   - Questions
 ---
-<img width="380px" class="rounded float-start pe-3" src="../img/Breaking Bugs/softwareengineer.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/SmartQuestions/image_preview.png">
   
 ## Why Clarify in Questions Gets You Better Answers <img src="../img/Breaking Bugs/undercover.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
 
@@ -19,7 +19,7 @@ Smart questions often receive higher-quality answers because they are written wi
 
 On the other hand, not smart questions are typically vague, broad, or unclear. They lack necessary details and often appear lazy—as if the asker made no attempt to solve the problem before asking. These types of questions can come across as rude or entitled, making it less likely that the community will respond helpfully. In many cases, they receive downvotes or get closed by moderators for being unhelpful or off-topic.
 
-## How to Ask for Help—The Right Way <img src="../img/Breaking Bugs/challenge.png" width="45px" style="vertical-align: middle; margin-left: 10px;">
+## How to Ask for Help—The Right Way <img src="../img/SmartQuestions/943452.png" width="45px" style="vertical-align: middle; margin-left: 10px;">
 
 A great example of a smart question on Stack Overflow is:
 “Why is using for...in with array iteration a bad idea?”
@@ -28,7 +28,7 @@ This question is focused and clearly scoped, making it easy for others to unders
 
 As a result, this question received high ratings and detailed, thoughtful answers. Contributors explained JavaScript behavior using specifications, real-world examples, and even performance insights. The community engagement was strong and constructive, offering not just a solution, but a learning opportunity.
 
-## What Happens When You Don’t Ask Smart <img src="../img/Breaking Bugs/cybersecurity.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## What Happens When You Don’t Ask Smart <img src="../img/SmartQuestions/pngtree-i-can-find-answers-from-the-anything-many-questions-and-no-png-image_4367750.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
 
 A not-so-smart example would be a post like:
 “my code doesn’t work. can someone fix it?”
@@ -41,7 +41,7 @@ As expected, posts like this are often downvoted or closed. Even when someone re
 “Try parseInt('3') + 5.”
 This doesn’t help the asker understand the real issue, nor does it teach them how to troubleshoot or learn.
 
-## Asking the Right Way! <img src="../img/typescript/AI.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## Asking the Right Way! <img src="../img/SmartQuestions/4149681.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
 
 After reading through many questions on Stack Overflow, I’ve learned a key lesson: smart questions get smart answers. Poorly asked questions often feel like demands, not requests for help. They come across as impatient or careless—almost like someone shouting for help without context.
 
