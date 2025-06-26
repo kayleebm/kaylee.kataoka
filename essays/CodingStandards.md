@@ -32,7 +32,7 @@ These standards can also support beginners by offering a clear structure and pro
 
 However, coding standards may feel restrictive to experienced programmers who have developed their own methods and workflows. While they enhance readability, they don’t always catch deeper issues such as logic errors or design flaws. In such cases, code reviews and automated testing may be more effective. Additionally, hands-on practice paired with clear documentation can sometimes be a better approach for learning a new language than strictly adhering to a coding standard
 
-## ESLing with VSCode <img src="../img/CodingStandards/1_OvaSRk5EFxb_mN_M_QpUNg.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## ESLint with VSCode <img src="../img/CodingStandards/1_OvaSRk5EFxb_mN_M_QpUNg.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
 
 After my first week of using ESLint with VSCode, I found the experience to be both challenging and beneficial. At first, resolving all the ESLint errors felt tedious, especially when the issues seemed minor or overly strict. However, as I continued to work with it, I began to appreciate how ESLint enforced cleaner, more consistent code. It helped me identify bad habits I wasn’t even aware of and encouraged me to follow best practices. Over time, the suggestions began to feel less like obstacles and more like helpful reminders that improved the readability, maintainability, and reliability of my code. Ultimately, while it can be frustrating at first, using ESLint has made me a more thoughtful and disciplined programmer.
 
