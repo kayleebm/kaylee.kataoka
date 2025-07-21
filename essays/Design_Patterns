@@ -10,17 +10,17 @@ labels:
   - Design
   - Code
 ---
-<img width="380px" class="rounded float-start pe-3" src="../img/CodingStandards/1_J5VZnEaZrednUe6KQ-6IvQ.jpg">
+<img width="380px" class="rounded float-start pe-3" src="../img/Design_Patterns/download.png">
   
-## Design Patterns <img src="../img/CodingStandards/coding_standards_arent_for_you.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## Design Patterns <img src="../img/Design_Patterns/blueprint@2x.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
 
 Design patterns are time-tested, standardized solutions to common problems that arise during software development. Rather than being fully functional chunks of code, they serve as conceptual templates—guidelines that help shape how a system behaves and evolves. For developers, design patterns are like architectural blueprints: they don’t dictate every detail, but they provide a proven structure to build upon. Just as an architect might follow a familiar layout to design an efficient kitchen—not because it’s a rule, but because it works—developers might use the Observer pattern to coordinate changes across components. It’s not mandatory, just smart. Patterns like these help developers avoid reinventing the wheel, improve code quality, speed up development, and foster clearer communication within teams.
 
-## The Need for Patterns <img src="../img/CodingStandards/shutterstock_293450465-2560x2137.jpg" width="45px" style="vertical-align: middle; margin-left: 10px;">
+## The Need for Patterns <img src="../img/Design_Patterns/30Davis-cklg-articleLarge.webp" width="45px" style="vertical-align: middle; margin-left: 10px;">
 
 Patterns are extremely useful in the developer world because they bring structure to what can often feel like chaos. Imagine walking into a cluttered house—there’s junk piled in the corners, random furniture blocking pathways, and valuable items buried beneath the mess. That’s what poorly structured code can feel like: disorganized, overwhelming, and difficult to navigate. As a developer, you can face projects where the logic sprawled in all directions, making even simple updates risky and confusing. That’s where design patterns step in. They’re like an architectural manual for code—providing a sense of flow, purpose, and consistency. Just as organizing a home around practical layouts creates comfort and ease, applying design patterns helps transform scattered code into a well-structured system that’s easier to understand, maintain, and expand. Instead of constantly guessing where things belong, patterns give developers a reliable framework to follow, making the entire development process smoother and more intentional. 
 
-## How Patterns Work <img src="../img/CodingStandards/images.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## How Patterns Work <img src="../img/Design_Patterns/How-to-Organize-Every-Space-in-Your-House.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 
 Design patterns are typically grouped into three categories: creational, structural, and behavioral. To make this easier to understand, imagine you’re building a house. The creational aspect is like laying the foundation—it sets the groundwork and ensures the house is stable. In coding, this means creating the basic components of your program in a consistent and reliable way so that everything built on top of it doesn’t collapse later.
 
@@ -30,7 +30,7 @@ Finally, the behavioral patterns are like how people move through the house—ho
 
 These categories help developers not just write working code, but design software that feels intentional, organized, and easy to maintain—just like a well-planned home.
 
-## My Own Experience <img src="../img/CodingStandards/1_OvaSRk5EFxb_mN_M_QpUNg.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## My Own Experience <img src="../img/Design_Patterns/images.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
 
 When I was building a PacSun homepage clone using Bootstrap 5 and Next.js, I didn’t realize I was already applying design patterns. These frameworks naturally led me to think in terms of components, reusable layouts, and structured organization. For example, I used Bootstrap’s grid system and card components to create a clean, responsive layout that could adjust across screen sizes—something that reflects consistent, modular design principles. Next.js helped me organize the project through file-based routing and shared layout components, making it easier to maintain and scale. While I wasn’t explicitly naming the patterns I was using, I was following proven solutions to common UI and structure problems—essentially applying design patterns in practice. This project showed me how tools like these help bring clarity and efficiency to development by encouraging thoughtful, pattern-based design.
 
